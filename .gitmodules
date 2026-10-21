@@ -1,0 +1,3 @@
+[submodule "modules/submodule_tes"]
+	path = modules/submodule_tes
+	url = https://github.com/aditiy100outlook/submodule_tes.git
